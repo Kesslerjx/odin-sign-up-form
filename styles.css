@@ -143,3 +143,10 @@ label, input {
 .rh-side a:visited {
     color: blue;
 }
+
+.error {
+    border-color: red;
+    border-radius: 5px;
+    border-style: solid;
+    outline: none;
+}
