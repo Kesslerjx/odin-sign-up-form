@@ -118,6 +118,14 @@ label, input {
     flex-basis: 30%;
 }
 
+#sign-up-form input:focus {
+    border-color: orange;
+    border-radius: 5px;
+    border-style: solid;
+    outline: none;
+    box-shadow: 0px 5px 5px rgb(0 0 0 / 15%);
+}
+
 .button-div {
     margin: 30px;
     flex-shrink: 1;
